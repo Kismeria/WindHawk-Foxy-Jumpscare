@@ -5,7 +5,7 @@
 - Chance: 1 in 100000 per second by default (configurable)
 - Transparent background, works over fullscreen apps
 - Image and sound are downloaded automatically on first run
-- Test hotkey: `Ctrl+Alt+F`
+- Test: turn on "Test on save" in settings
 
 ## Install
 
